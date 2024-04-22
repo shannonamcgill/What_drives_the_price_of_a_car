@@ -62,10 +62,7 @@ There are 4 major steps engineers and scientist should complete during the data 
 
 # Exploratory Data Analysis
 
-
-What_drives_the_price_of_a_car/images/SalesPricebyManufacturer.png
-
-
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/shannonamcgill/What_drives_the_price_of_a_car/blob/main/images/SalesPricebyManufacturer.png)?raw=true)
 
 
 # Model and Findings

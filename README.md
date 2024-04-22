@@ -14,12 +14,12 @@ There are 4 major steps engineers and scientist should complete during the data 
 
    For this project we will be looking at a used car dataset found in the on the Kagal website. 
    
-   ##Data Description Description Report
+##Data Description Description Report
    This dataset contains 18 columns and has 426,880 rows of data with 32,895 of these rows missing their price. 
    id, region, price, year, manufacturer, model, condition, cylinders, fuel, odometer, title_status, transmission, VIN, drive, size, type, paint_color and, state.
    
    The following shows a list of each of the columns and the number of missing values for each of them. 
-   
+   <p>
    id                   0
    region               0
    price                0
@@ -37,16 +37,15 @@ There are 4 major steps engineers and scientist should complete during the data 
    size            306361
    type             92858
    paint_color     130203
-   state                0
-
+   state                0</p>
 ##Data Quality Report
 
-<p>
-    Exploring the data there are several key takeaways. 
-    <ol> 
+<p>Exploring the data there are several key takeaways. 
+<ol> 
         <li> There are a total of 426K rows in this dataset </li>
-        <li> The size feature only contains 120519 populated values. This might make the feature more noisy than              valuable.</li>
-        <li> The ID and VIN columns are unique identifiers and not something that would correlate with the price of              the vehicle. Unless used as the dataset's index, these should be removed from our data. </li>
+        <li> The size feature only contains 120519 populated values. This might make the feature more noisy than valuable.</li>
+        <li> The ID and VIN columns are unique identifiers and not something that would correlate with the price of the vehicle. 
+           Unless used as the dataset's index, these should be removed from our data. </li>
         <li>Most of our features are text values and must be transformed into numerical representations to 
             determine their correlation to the vehicle’s price.</li>
         <li>There were 32895 records with a price tag of 0.00 This should be dropped from our dataset. I also 

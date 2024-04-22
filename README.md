@@ -21,25 +21,26 @@ There are 4 major steps engineers and scientist should complete during the data 
    
    <p>The following shows a list of each of the columns and the number of missing values for each of them. </p>
    <p>
-   id                   0
-   region               0
-   price                0
-   year              1205
-   manufacturer     17646
-   model             5277
-   condition       174104
-   cylinders       177678
-   fuel              3013
-   odometer          4400
-   title_status      8242
-   transmission      2556
-   VIN             161042
-   drive           130567
-   size            306361
-   type             92858
-   paint_color     130203
-   state                0
-    </p>
+   <ul>
+      <li>id:0</li>
+      <li>price:0</li>
+      <li>year:1205</li>
+      <li>manufacturer:17646</li>
+      <li>model:5277</li>
+      <li>condition:174104</li>
+      <li>cylinders:177678</li>
+      <li>fuel:3013</li>
+      <li>odometer:4400</li>
+      <li>odometer:4400</li>
+      <li>transmission:2556</li>
+      <li>VIN:161042</li>
+      <li>drive:130567</li>
+      <li>size:306361</li>
+      <li>type:92858</li>
+      <li>paint_color:130203</li>
+      <li>state:0</li>
+   </ul>
+   </p>
 ## Data Quality Report
 
 <p>Exploring the data there are several key takeaways. 

@@ -8,7 +8,8 @@ There are 4 major steps engineers and scientist should complete during the data 
     <li>Describe Data and creating a Data Description Report</li>
     <li>Explore Data and creating a Data Exploration Report</li>
     <li>Verify Data Quality and creating a Data Quality Report</li>
-    <ol>
+   </ol>
+   
 
 ##Initial Data Collection Report
 

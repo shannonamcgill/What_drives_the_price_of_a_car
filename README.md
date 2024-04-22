@@ -60,5 +60,23 @@ There are 4 major steps engineers and scientist should complete during the data 
      </ol>
 </p>    
 
+# Exploratory Data Analysis
+
+
+
+
+
+# Model and Findings
+
+<p>After having completed our analysis of historical car sales, our machine-learning models have predicted that the price of a vehicle can be determined with 75% accuracy when focusing on the odometer, color, model, status of the title, and overall vehicle condition. 
+</p>
+
+<p>
+We believe we can fine-tune our algorithm to increase its accuracy, but we will need a few more weeks to conduct our development.</p>
+
+<p> Our next steps will be to increase our model’s accuracy and identify the specific values within each category that drive up a vehicle’s price. 
+</p>
+
+
 
 

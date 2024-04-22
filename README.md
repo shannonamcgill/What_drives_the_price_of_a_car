@@ -9,3 +9,7 @@ There are 4 major steps engineers and scientist should complete during the data 
     <li>Explore Data and creating a Data Exploration Report</li>
     <li>Verify Data Quality and creating a Data Quality Report</li>
     <ol>
+
+<h4>Initial Data Collection Report</h4>
+
+For this project we will be looking at a used car dataset found in the on the Kagal website 

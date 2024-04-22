@@ -63,6 +63,8 @@ There are 4 major steps engineers and scientist should complete during the data 
 # Exploratory Data Analysis
 
 
+images/SalesPricebyManufacturer.png
+
 
 
 

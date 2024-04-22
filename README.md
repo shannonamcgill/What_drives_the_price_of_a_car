@@ -11,11 +11,11 @@ There are 4 major steps engineers and scientist should complete during the data 
    </ol>
    
 
-##Initial Data Collection Report
+## Initial Data Collection Report
 
    For this project we will be looking at a used car dataset found in the on the Kagal website. 
    
-##Data Description Description Report
+## Data Description Description Report
    This dataset contains 18 columns and has 426,880 rows of data with 32,895 of these rows missing their price. 
    id, region, price, year, manufacturer, model, condition, cylinders, fuel, odometer, title_status, transmission, VIN, drive, size, type, paint_color and, state.
    
@@ -39,7 +39,7 @@ There are 4 major steps engineers and scientist should complete during the data 
    type             92858
    paint_color     130203
    state                0</p>
-##Data Quality Report
+## Data Quality Report
 
 <p>Exploring the data there are several key takeaways. 
 <ol> 

@@ -62,8 +62,16 @@ There are 4 major steps engineers and scientist should complete during the data 
 
 # Exploratory Data Analysis
 
-![alt text](https://github.com/shannonamcgill/What_drives_the_price_of_a_car/blob/main/images/Salesmanufacturer.png)?raw=true)
+The following shows the relationship between various vehicle features and price.
 
+![alt text](https://github.com/shannonamcgill/What_drives_the_price_of_a_car/blob/main/images/Salesmanufacturer.png)
+
+
+
+![alt text](https://github.com/shannonamcgill/What_drives_the_price_of_a_car/blob/main/images/SalesbyCondition.png)
+
+
+![alt text](https://github.com/shannonamcgill/What_drives_the_price_of_a_car/blob/main/images/SalesPaintColor.png)
 
 # Model and Findings
 
